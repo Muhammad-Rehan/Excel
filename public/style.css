@@ -1,0 +1,46 @@
+table{
+    border: 1px solid red;
+    margin: 10px;
+    
+}
+tr{
+    background-color: rgb(255,125, 50);
+    color: white;
+}
+th{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+td{
+    background-color: red;
+    padding:20px;
+    font-size: 20px;
+}
+
+button{
+    width: 130px;
+    height: 50px;
+    border-radius: 80px 10px;
+    outline: none;
+    background-color: saddlebrown;
+    color: white;
+    font-size: 25px;
+}
+button:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+a{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: underline;
+    background-color: red;
+    color: white;
+}
